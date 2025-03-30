@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "amil_massages",
+  "info": {
+    "singularName": "amil-massage",
+    "pluralName": "amil-massages",
+    "displayName": "amilMassage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "banner_companies",
+  "info": {
+    "singularName": "banner-company",
+    "pluralName": "banner-companies",
+    "displayName": "bannerCompany",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "companyImg": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_toles_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

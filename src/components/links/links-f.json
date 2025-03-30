@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_links_links_fs",
+  "info": {
+    "displayName": "linksFooter",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "name_link": {
+      "displayName": "linkName",
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link-name"
+    }
+  }
+}

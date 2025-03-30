@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_select_options",
+  "info": {
+    "displayName": "option",
+    "icon": "connector",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "colorORsize": {
+      "type": "string"
+    }
+  }
+}
