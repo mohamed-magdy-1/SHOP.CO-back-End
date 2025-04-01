@@ -14,7 +14,7 @@ module.exports = ({ env }) => ({
       settings: {
         defaultFrom: "king44123no@gmail.com",
         defaultReplyTo: "king44123no@gmail.com",
-        resetPasswordUrl: "http://localhost:3000/auth/ResetPassword?code={TOKEN}",
+        resetPasswordUrl: "https://shop-co-swart-rho.vercel.app/auth/ResetPassword?code={TOKEN}",
       },
     },
   },
